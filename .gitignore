@@ -1,0 +1,6 @@
+git init
+git branch -M main
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/<TU_USUARIO>/neodrive-site.git
+git push -u origin main
