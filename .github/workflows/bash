@@ -1,4 +1,0 @@
-git pull origin main
-git add .
-git commit -m "Setup GH Pages: vite base + deploy workflow + SEO"
-git push origin main
